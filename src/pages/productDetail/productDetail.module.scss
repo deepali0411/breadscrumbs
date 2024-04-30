@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 1.6rem;
+    .content {
+        padding: 1.6rem;
+        text-align: left;
+        .title {
+            font-size: 3.2rem;
+            font-weight: 600;
+            margin: 1.2rem 0;
+        }
+        .brand {
+            color: #333;
+            font-size: 2.8rem;
+            margin: 1.2rem 0;
+        }
+        .description {
+            color: #999;
+            font-size: 2.4rem;
+            margin: 1.2rem 0;
+        }
+        .price {
+            font-weight: 500;
+            font-size: 2.8rem;
+        }
+    }
+}

@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    .button {
+        margin-top: 1.6rem;
+        width: 50%;
+        height: 4rem;
+        background-color: rgb(132, 206, 246);
+        border: 0.1rem solid rgb(132, 206, 246);
+        border-radius: 0.4rem;
+        color: #fff;
+        cursor: pointer;
+    }
+}
